@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attended workshop on Stochastic Differential Equations with R at Linköping University. emoji! :sparkles: :smile:
+Attended workshop on Stochastic Differential Equations with R at Linköping University. emoji! :sparkles:
