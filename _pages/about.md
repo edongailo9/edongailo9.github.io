@@ -6,7 +6,7 @@ subtitle: Lecturer<a href='https://udsm.ac.tz'>University of Dar es Salaam</a>. 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: edward.jpg
   image_circular: true # crops the image to make it circular
   # more_info: >
    # <p>555 your office number</p>
