@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Lecturer<a href='https://udsm.ac.tz'>University of Dar es Salaam</a>. Dar es Salaam. Tanzania.
+subtitle: Lecturer at the <a href='https://udsm.ac.tz'>University of Dar es Salaam</a>. Dar es Salaam. Tanzania.
 
 profile:
   align: right
