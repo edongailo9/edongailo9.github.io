@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-attended-workshop-on-intercultural-communication-skills-organized-by-euraxess-12th-february-and-4th-march-2026-enhancing-ability-to-collaborate-and-communicate-research-across-diverse-international-teams",
+          title: 'Attended workshop on Intercultural Communication Skills, organized by EURAXESS, 12th February and 4th...',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
