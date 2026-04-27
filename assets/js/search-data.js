@@ -443,12 +443,10 @@ ninja.data = [{
             },},{id: "news-attended-workshop-on-intercultural-communication-skills-organized-by-euraxess-12th-february-and-4th-march-2026-enhancing-ability-to-collaborate-and-communicate-research-across-diverse-international-teams",
           title: 'Attended workshop on Intercultural Communication Skills, organized by EURAXESS, 12th February and 4th...',
           description: "",
-          section: "News",},{id: "news-presented-a-seminar-on-data-leakage-or-genuine-generalization-a-hybrid-multilevel-machine-learning-models-investigation-of-student-dropout-prediction-under-household-aware-versus-household-naive-validation-at-the-division-of-statistics-and-machine-learning-linköping-university-sweden",
-          title: 'Presented a seminar on Data leakage or genuine generalization? A hybrid multilevel machine...',
+          section: "News",},{id: "news-",
+          title: '',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-attended-workshop-on-stochastic-differential-equations-with-r-at-linköping-university-emoji-sparkles",
+          section: "News",},{id: "news-attended-workshop-on-stochastic-differential-equations-with-r-at-linköping-university-emoji-sparkles",
           title: 'Attended workshop on Stochastic Differential Equations with R at Linköping University. emoji! :sparkles:...',
           description: "",
           section: "News",},{id: "projects-project-1",
