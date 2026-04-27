@@ -21,10 +21,10 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit:  # leave blank to include all the news in the `_news` folder
 
-# latest_posts:
-#  enabled: true
- # scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-#  limit:  # leave blank to include all the blog posts
+ latest_posts:
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit:  # leave blank to include all the blog posts
   ---
 
 Dr. Edward Kanuti Ngailo is a Lecturer at the Dar es Salaam University College of Education. His projects bridges advanced statistical theory and social impact by developing multilevel regression models and machine learning hybrids to analyze hierarchical educational data. By focusing on model interpretability and classification methodologies, he aims to provide policymakers with early warning systems that identify and support at-risk children. Beyond education, his research portfolio extends to public health and energy systems, driven by a commitment to rigorous, data-driven solutions.
