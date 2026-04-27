@@ -448,7 +448,7 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-attended-workshop-on-stochastic-differential-equations-with-r-at-linköping-university-emoji-sparkles-smile",
+            },},{id: "news-attended-workshop-on-stochastic-differential-equations-with-r-at-linköping-university-emoji-sparkles",
           title: 'Attended workshop on Stochastic Differential Equations with R at Linköping University. emoji! :sparkles:...',
           description: "",
           section: "News",},{id: "projects-project-1",
