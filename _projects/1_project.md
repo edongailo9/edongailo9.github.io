@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Capacity Building in Mathematics for Scientific and Technological Advancement in Tanzania
 description: with background image
 img: assets/img/12.jpg
 importance: 1
