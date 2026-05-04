@@ -440,8 +440,8 @@ ninja.data = [{
             },},{id: "news-attended-workshop-on-stochastic-differential-equations-with-r-at-linköping-university-emoji-sparkles",
           title: 'Attended workshop on Stochastic Differential Equations with R at Linköping University. emoji! :sparkles:...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          section: "News",},{id: "projects-capacity-building-in-mathematics-for-scientific-and-technological-advancement-in-tanzania",
+          title: 'Capacity Building in Mathematics for Scientific and Technological Advancement in Tanzania',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
