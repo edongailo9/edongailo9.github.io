@@ -442,7 +442,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-capacity-building-in-mathematics-for-scientific-and-technological-advancement-in-tanzania",
           title: 'Capacity Building in Mathematics for Scientific and Technological Advancement in Tanzania',
-          description: "with background image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
