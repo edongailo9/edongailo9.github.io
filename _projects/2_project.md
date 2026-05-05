@@ -2,7 +2,7 @@
 layout: page
 title: The Effect of Construction of Word Problems on Student`s Performance in Primary Schools
 description: Describe your project here                                   
-img: assets/img/3.jpg
+img: assets/img/mtoto.jpg
 importance: 2
 category: work
 giscus_comments: true
