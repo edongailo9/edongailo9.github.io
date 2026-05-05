@@ -450,8 +450,8 @@ ninja.data = [{
           description: "Describe your project here",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
+            },},{id: "projects-data-driven-analysis-for-energy-theft-detection-in-power-grids",
+          title: 'Data Driven Analysis for Energy Theft Detection in Power Grids',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
