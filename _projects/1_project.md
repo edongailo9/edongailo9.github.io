@@ -2,7 +2,7 @@
 layout: page
 title: Capacity Building in Mathematics for Scientific and Technological Advancement in Tanzania
 description: 
-img: assets/img/12.jpg
+img: assets/img/multilevel.jpg
 importance: 1
 category: work
 related_publications: true
