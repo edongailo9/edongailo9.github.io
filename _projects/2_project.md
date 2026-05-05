@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Effect of Construction of Word Problems on Student`s Performance in Primary Schools. Funding: UDSM Competitive Research and Innovation Grants-2023.
+title: The Effect of Construction of Word Problems on Student`s Performance in Primary Schools
 description: Describe your project here                                   
 img: assets/img/3.jpg
 importance: 2
