@@ -445,9 +445,9 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-the-effect-of-construction-of-word-problems-on-student-s-performance-in-primary-schools",
+          title: 'The Effect of Construction of Word Problems on Student`s Performance in Primary Schools...',
+          description: "Describe your project here",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
